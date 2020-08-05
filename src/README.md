@@ -1,3 +1,8 @@
+> **WARNING**: this repository is outdated and has moved to:
+>
+> * https://opendev.org/openstack/charm-keystone-kerberos
+> * https://github.com/openstack/charm-keystone-kerberos
+
 # keystone-kerberos
 
 This subordinate charm provides a way to authenticate in Openstack for 
